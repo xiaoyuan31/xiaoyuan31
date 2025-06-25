@@ -1,10 +1,10 @@
 # Hi there 🙏🏻
 
-Nice to meet you here. I'm Seint Seint Thu @ Xiao Yuan (Lv)
-This is the one who want to develop effective and fun app with different value. 
-Please feel free to explore 😌
+- Nice to meet you here. I'm Seint Seint Thu @ Xiao Yuan (Lv)
+- This is the one who want to develop effective and fun app with different value. 
+- Please feel free to explore 😌
 
-##I am currently 
+# I am currently 
 
 * 💻 Working on something cool
 * 📕 Reading Dhammapada
