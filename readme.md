@@ -1,16 +1,18 @@
 # Hi there 🙏🏻
 
-- Nice to meet you here. I'm Seint Seint Thu @ Xiao Yuan (Lv)
-- This is the one who want to develop effective and fun app with different value. 
-- Please feel free to explore 😌
+- Nice to meet you here.
+- Name -> Seint Seint Thu
+- Developer Name -> Xiao Yuan (Lv)
+- I am who want to develop effective and fun app with different values. 
+- Please feel free to explore 🌟
 
 # I am currently 🧙🏻
 
-* 💻 Working on something cool
-* 📕 Reading Dhammapada
+* 💻 Learning about Full Stack App Development 
+* 📕 Reading Dhammapada, AP about TOPEC Exam, Rockstar Development
 * 🎮 Like to play fantasy Game at free time
 * ✍🏻 Blog on every weekend and special day <a href="[xiaoyuanlv.blog](https://xiaoyuanlv.blogspot.com/)" name="xiaoyuanlv">Blog Page</a>
-* 📱 +959790775775 (call me may be) PLease  feel free leave sms ( more prefer than phone call) 
+* 📱 +95 9899130317, +95 9790775775  PLease  feel free leave sms ( more prefer than phone call) 
 
 # Fav Quote 😎
 
