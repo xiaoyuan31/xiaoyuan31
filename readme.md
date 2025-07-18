@@ -1,4 +1,4 @@
-# Hi there 🙏🏻
+# Hi there 🙂
 
 - Nice to meet you here.
 - Name -> Seint Seint Thu
