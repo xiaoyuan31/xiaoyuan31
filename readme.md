@@ -2,15 +2,18 @@
 
 - Nice to meet you here.
 - Name -> Seint Seint Thu
-- Developer Name -> Xiao Yuan (Lv)
-- I am who want to develop effective and fun app with different values. 
+- Nick Name => Xiao Yuan (Lv)
+- Goal -> Creative App Developer/ UI UX App Designer
+- Edu -> IADCS [NCC Education], B.C.Tech(Hons) [UCSY]
+- Race -> Chinese-Myanmar
+- Nationality - Myanmar 
 - Please feel free to explore 🌟
 
 # I am currently 🧙🏻
 
-* 💻 Learning about Full Stack App Development 
-* 📕 Reading Dhammapada, AP about TOPEC Exam, Rockstar Development
-* 🎮 Like to play fantasy Game at free time
+* 💻 Learning about Full Stack App Development ( Figma, Flutter, Android, iOS, React )
+* 📕 Reading Dhammapada, AP Exam, Rockstar Developer
+* 🎮 Like to play fantasy Game at free time 
 * ✍🏻 Blog on every weekend and special day <a href="[xiaoyuanlv.blog](https://xiaoyuanlv.blogspot.com/)" name="xiaoyuanlv">Blog Page</a>
 * 📱 +95 9899130317, +95 9790775775  PLease  feel free leave sms ( more prefer than phone call) 
 
