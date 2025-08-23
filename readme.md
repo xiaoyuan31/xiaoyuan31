@@ -2,9 +2,6 @@
 
 - Nice to meet you here.
 - Goal -> Full Stack App Designer
-- Education -> IADCS [NCC Education], B.C.Tech(Hons) [UCSY]
-- Race -> Chinese-Myanmar
-- Nationality - Myanmar 
 
 # I am currently 🧙🏻
 
