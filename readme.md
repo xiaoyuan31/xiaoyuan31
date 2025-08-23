@@ -1,7 +1,6 @@
 # Hi there 🙂
 
 - Nice to meet you here.
-- Goal -> Full Stack App Designer
 
 # I am currently 🧙🏻
 
