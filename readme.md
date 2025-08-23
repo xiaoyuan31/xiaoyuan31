@@ -4,7 +4,7 @@
 
 # I am currently 🧙🏻
 
-* 💻 Learning about Full Stack App Design and Development ( Figma, Android, iOS, React, PHP )
+* 💻 Learning about Full Stack App Design and Development ( Figma, Web dev )
 
 # Fav Quote 😎
 
