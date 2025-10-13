@@ -1,10 +1,11 @@
 # Hi there 🙂
 
 - Nice to meet you here.
+- Check out my original github username [@XiaoYuanLv](https://github.com/xiaoyuanlv/)
 
 # I am currently 🧙🏻
 
-* 💻 Learning about Full Stack App Design and Development ( Figma, Web dev )
+* 💻 Learning about Full Stack Development ( PHP, Laravel, React )
 
 # Fav Quote 😎
 
