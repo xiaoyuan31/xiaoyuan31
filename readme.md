@@ -1,12 +1,14 @@
 # Hi there 🙂
 
 - Nice to meet you here.
+- My Full Name is Seint Seint Thu.
+- My Chinese name is Yuan Yuan 圆圆. Just call me xiao yuan 小圆.
 - Check out my first original github username [@XiaoYuanLv](https://github.com/xiaoyuanlv/)
-- Currently I am learning about React web development, Mobile OJT
+- This is my code playground. I will free feel to play my colorful code like a young person.
 
 # I am currently 🧙🏻
 
-* 💻 Learning about Full Stack Development ( PHP, Laravel, React )
+* 💻 Learning about Full Stack Development ( React, Android, PHP )
 
 # Fav Quote 😎
 
