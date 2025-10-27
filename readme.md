@@ -1,7 +1,8 @@
 # Hi there 🙂
 
 - Nice to meet you here.
-- Check out my original github username [@XiaoYuanLv](https://github.com/xiaoyuanlv/)
+- Check out my first original github username [@XiaoYuanLv](https://github.com/xiaoyuanlv/)
+- Currently I am learning about React web development, Mobile OJT
 
 # I am currently 🧙🏻
 
