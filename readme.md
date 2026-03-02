@@ -8,7 +8,7 @@
 
 # I am currently 🧙🏻
 
-* 💻 Learning about Full Stack Development ( React, Android, PHP )
+* 💻 Learning about Full Stack Development 
 
 # Fav Quote 😎
 
