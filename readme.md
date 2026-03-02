@@ -8,7 +8,11 @@
 
 # I am currently 🧙🏻
 
-* 💻 Learning about Full Stack Development 
+* 💻 Working on a freelance Project 
+
+# I am open to 🧙🏻
+
+* 💻 Working Full Time and Freelance Project 
 
 # Fav Quote 😎
 
