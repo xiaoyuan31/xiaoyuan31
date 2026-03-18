@@ -6,6 +6,10 @@
 - Check out my first original github username [@XiaoYuanLv](https://github.com/xiaoyuanlv/)
 - This is my code playground. I will free feel to play my colorful code like a young person.
 
+<p align="center">
+  <img src="253d9d4a-beea-490f-967b-6d3e0a172a42.png" width="500"/>
+</p>
+
 # I am currently 🧙🏻
 
 * 💻 Working on a freelance Project 
