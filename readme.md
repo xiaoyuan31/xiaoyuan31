@@ -1,7 +1,3 @@
-╔═════════════════════════╗
-║  👨‍💻 Xiao Yuan's Code Playground  ║
-╚═════════════════════════╝
-
 # 👋 Hi there, I'm Xiao Yuan! 🌟
 
 Nice to meet you here!  
