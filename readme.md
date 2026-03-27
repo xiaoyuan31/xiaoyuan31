@@ -4,7 +4,6 @@ Nice to meet you here!
 
 ## About Me 🧑‍💻
 
-
 - **Full Name:** Seint Seint Thu  
 - **Chinese Name:** Yuan Yuan 圆圆 (Just call me Xiao Yuan 小圆)  
 - **First GitHub Username:** [@XiaoYuanLv](https://github.com/xiaoyuanlv/)  
@@ -16,7 +15,7 @@ When I’m not coding, you’ll find me:
 - 📚 Reading books about Buddhism and tech  
 - 🥾 Hiking in nature  
 - 🏊 Swimming to clear my mind
-  
+
 ---
 
 ## Tech Stack 🛠️
@@ -29,11 +28,16 @@ When I’m not coding, you’ll find me:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
-## Stats
+
+## Stats 📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xiaoyuan31&color=blue)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xiaoyuan31&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyuan31&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyuan31&layout=compact&theme=radical)
 
 [![View GitHub Profile](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/xiaoyuan31)
 
@@ -41,10 +45,25 @@ When I’m not coding, you’ll find me:
 
 ## 🚀 Featured Projects
 
-### [Pokedex App](https://github.com/xiaoyuan31/Pokedex-iOS)
+### [Pokedex App (iOS)](https://github.com/xiaoyuan31/Pokedex-iOS)
 iOS app to browse Pokémon with API integration.  
 **Tech:** iOS, SwiftUI, REST API  
 [View Repo](https://github.com/xiaoyuan31/Pokedex-iOS)
+
+### [Pokedex App (Flutter)](https://github.com/xiaoyuan31/Pokedex)
+Cross-platform Flutter app to explore Pokémon.  
+**Tech:** Flutter, Dart, REST API  
+[View Repo](https://github.com/xiaoyuan31/Pokedex)
+
+---
+
+## 🎓 Certificates
+
+| Certificate | Issuer | Year | Link |
+|-------------|-------|------|------|
+| IADCS | NCC Edu | 2011 | [PDF](#) |
+| B.C.Tech(Hons) | UCSY | 2010 | [PDF](#) |
+| Professional Web Development | Fairway | 2025 | [PDF](#) |
 
 ---
 
@@ -66,6 +85,8 @@ iOS app to browse Pokémon with API integration.
 - 💻 **Full-time work** and **freelance projects**  
 
 ---
+
+## 💭 Quote of the Day
 
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=tech)
 
