@@ -21,9 +21,6 @@ Nice to meet you here!
 ---
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyuan31&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyuan31&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xiaoyuan31&theme=radical)
 
