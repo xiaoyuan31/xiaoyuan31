@@ -21,6 +21,7 @@ Nice to meet you here!
 ---
 ## Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyuan31&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xiaoyuan31&theme=radical)
 
