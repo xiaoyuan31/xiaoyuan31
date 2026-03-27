@@ -33,6 +33,16 @@ When I’m not coding, you’ll find me:
   
 ---
 
+<details>
+<summary>✨ Click for a secret ✨</summary>
+
+> You found this 👀  
+> Keep going... you're doing great 🚀  
+
+</details>
+
+---
+
 ## Tech Stack 🛠️
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
