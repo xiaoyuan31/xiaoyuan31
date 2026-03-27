@@ -31,10 +31,10 @@ Nice to meet you here!
 
 ## 🚀 Featured Projects
 
-### [Pokedex App](https://github.com/xiaoyuan31/PokedexSwiftUI)
+### [Pokedex App](https://github.com/xiaoyuan31/Pokedex-iOS)
 iOS app to browse Pokémon with API integration.  
 **Tech:** iOS, SwiftUI, REST API  
-[View Repo](https://github.com/xiaoyuan31/PokedexSwiftUI)
+[View Repo](https://github.com/xiaoyuan31/Pokedex-iOS)
 
 ---
 
