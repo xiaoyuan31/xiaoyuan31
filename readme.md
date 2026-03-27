@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Xiao+Yuan+👋;Mobile+App+Developer+📱;React+%7C+Next.js+%7C+Flutter+⚡;Building+cool+things+every+day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Xiao+Yuan+👋;Mobile+App+Developer+📱;Android+%7C+iOS+%7C+React+⚡;Building+cool+things+every+day+🚀" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🌿 When I’m not coding:
 - 📚 Reading (Buddhism & Tech)  
 - 🥾 Hiking in nature  
-- 🏊 Swimming to reset my mind  
+- ⾏ Walking to refresh myself  
 
 ---
 
@@ -72,9 +72,9 @@ SwiftUI-based Pokémon explorer
 
 ---
 
-### 🌍 Pokedex App (Flutter)  
+### 🌍 Pokedex App (Android)  
 🔗 https://github.com/xiaoyuan31/Pokedex  
-Cross-platform Pokémon app  
+android-based Pokémon app  
 
 ---
 
