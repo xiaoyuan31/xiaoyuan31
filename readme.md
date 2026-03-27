@@ -19,7 +19,7 @@ When I’m not coding, you’ll find me:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Xiao+Yuan+👋;Mobile+App+Developer+📱;React+%7C+Next.js+%7C+Flutter+⚡;Building+cool+things+every+day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Xiao+Yuan+👋;Mobile+App+Developer+📱;Android+%7C+iOS+%7C+React+⚡;Building+cool+things+every+day+🚀" />
 </p>
 
 ---
