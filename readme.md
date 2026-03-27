@@ -24,8 +24,13 @@ When I’m not coding, you’ll find me:
 
 ---
 
-![Snake animation](https://github.com/xiaoyuan31/xiaoyuan31/blob/output/github-contribution-grid-snake.svg)
+## 🌱 Currently
 
+- 🧑‍💻 Building: **Cool Apps & Ideas**
+- 📚 Learning: **Advanced Mobile Development**
+- 🎯 Goal: **Become a top mobile architect**
+- 🌙 Mood: `Coding + Music + Deep Focus`
+  
 ---
 
 ## Tech Stack 🛠️
