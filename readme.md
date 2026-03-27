@@ -24,6 +24,8 @@ Nice to meet you here!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xiaoyuan31&theme=radical)
 
+[![View GitHub Profile](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/xiaoyuan31)
+
 ---
 
 ## I am currently 🧙🏻
