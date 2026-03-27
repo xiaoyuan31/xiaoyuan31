@@ -50,9 +50,9 @@ iOS app to browse Pokémon with API integration.
 **Tech:** iOS, SwiftUI, REST API  
 [View Repo](https://github.com/xiaoyuan31/Pokedex-iOS)
 
-### [Pokedex App (Flutter)](https://github.com/xiaoyuan31/Pokedex)
-Cross-platform Flutter app to explore Pokémon.  
-**Tech:** Flutter, Dart, REST API  
+### [Pokedex App (Android)](https://github.com/xiaoyuan31/Pokedex)
+Android MVVM app to explore Pokémon.  
+**Tech:** Android, Kotlin, REST API  
 [View Repo](https://github.com/xiaoyuan31/Pokedex)
 
 ---
@@ -61,9 +61,9 @@ Cross-platform Flutter app to explore Pokémon.
 
 | Certificate | Issuer | Year | Link |
 |-------------|-------|------|------|
-| IADCS | NCC Edu | 2011 | [PDF](#) |
-| B.C.Tech(Hons) | UCSY | 2010 | [PDF](#) |
-| Professional Web Development | Fairway | 2025 | [PDF](#) |
+| IADCS | NCC Edu | 2011 | [#](#) |
+| B.C.Tech(Hons) | UCSY | 2010 | [#](#) |
+| Professional Web Development | Fairway | 2025 | [#](#) |
 
 ---
 
