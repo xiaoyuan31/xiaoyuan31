@@ -1,12 +1,26 @@
-# Hi there 🙂 
+╔═════════════════════════╗
+║  👨‍💻 Xiao Yuan's Code Playground  ║
+╚═════════════════════════╝
+
+# 👋 Hi there, I'm Xiao Yuan! 🌟
 
 Nice to meet you here!  
+
+## About Me 🧑‍💻
+
 
 - **Full Name:** Seint Seint Thu  
 - **Chinese Name:** Yuan Yuan 圆圆 (Just call me Xiao Yuan 小圆)  
 - **First GitHub Username:** [@XiaoYuanLv](https://github.com/xiaoyuanlv/)  
 - This is my **code playground** — I freely explore colorful code like a young adventurer.  
 
+I’m a developer who loves exploring code and building apps.  
+When I’m not coding, you’ll find me:  
+
+- 📚 Reading books about Buddhism and tech  
+- 🥾 Hiking in nature  
+- 🏊 Swimming to clear my mind
+  
 ---
 
 ## Tech Stack 🛠️
@@ -54,6 +68,10 @@ iOS app to browse Pokémon with API integration.
 ## I am open to 🧙🏻
 
 - 💻 **Full-time work** and **freelance projects**  
+
+---
+
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=tech)
 
 ---
 
