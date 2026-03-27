@@ -21,7 +21,7 @@ Nice to meet you here!
 ---
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoyuan31&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=xiaoyuan31&color=blue)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xiaoyuan31&theme=radical)
 
