@@ -24,6 +24,10 @@ When I’m not coding, you’ll find me:
 
 ---
 
+![Snake animation](https://github.com/xiaoyuan31/xiaoyuan31/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## Tech Stack 🛠️
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
